@@ -1,4 +1,5 @@
-# ibex_lextale_ch
+# Ibex Simplified Mandarin LexTale
+
 Ibex implementation of simplified Mandarin LexTale materials created by Chan and Chang 2018
 
 Script to implement the LexTALE test (Lemhöfer & Broersma, 2012) in Ibex using PennController 
